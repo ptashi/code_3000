@@ -15,4 +15,4 @@
 
 - CODEOWNERS file
 
-- much more nto necessary as my answers may be wrong so students would have hard time cheating
+- much more to necessary as my answers may be wrong so students would have hard time cheating
